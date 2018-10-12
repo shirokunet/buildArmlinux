@@ -1,0 +1,7 @@
+root:x:0:
+tty:x:1:
+disk:x:2:
+dip:x:3:
+shadow:x:4:
+fair:x:5:
+
